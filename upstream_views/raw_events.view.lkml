@@ -1,3 +1,1 @@
-view: raw_events {
-##TODO - replace this view with your events view
-}
+view: raw_events {}
