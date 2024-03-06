@@ -15,7 +15,7 @@ explore: events {
   always_filter: {
     filters: {
       field: event_date
-      value: "last 7 days"
+      value: "2022/11"
     }
   }
 
